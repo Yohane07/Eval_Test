@@ -1,4 +1,4 @@
-from Langues.Constantes import Constantes
+from Constantes import Constantes
 from PeriodeDeLaJournee import PeriodeDeLaJournee
 
 class Anglaise:
