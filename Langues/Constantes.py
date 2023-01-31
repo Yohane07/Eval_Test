@@ -20,4 +20,4 @@ class Constantes:
         OBETI_MALAMU = "Obèti malamu"
         MBOTE = "Mboté"
         POKWA_MALAMU = "Pokwa malamu"
-        
+    
