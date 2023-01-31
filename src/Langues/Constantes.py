@@ -2,10 +2,7 @@ class Constantes:
     class Francais:
         BONSOIR = "Bonsoir"
         AU_REVOIR = "Au revoir"
-        BON_APREM = "Bon aprem"
         BONJOUR = "Bonjour"
-        SALUT = "SALUT SALUT"
-        BONNE_NUIT = "Bonne nuit"
         BIEN_DIT = "Bien dit"
 
     class Anglais:
@@ -23,4 +20,4 @@ class Constantes:
         OBETI_MALAMU = "Obèti malamu"
         MBOTE = "Mboté"
         POKWA_MALAMU = "Pokwa malamu"
-        
+    
